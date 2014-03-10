@@ -1,0 +1,99 @@
+body {
+  background: url(bandesbn.jpg);
+  background-repeat: no-repeat;
+  background-color: black;
+}
+
+/*h1 {
+	display: inline-block;
+	font-family: 'Audiowide', cursive;
+	text-align: center;
+	color: rgba(24,0,191,0.5);
+    text-transform: uppercase;
+    font-size: 90px;
+    transform: skew(-14deg) rotate(-6deg) translateZ(0);
+    position: relative;
+    z-index: 5;
+    white-space: nowrap;
+    border-top: solid 6px #ff5500;
+    border-bottom: solid 6px #ff5500;
+    line-height: 100px;
+    padding: 0 0 7px 0;
+    margin: 0;
+}
+
+h1:after {
+	display: inline-block;
+	position: absolute;
+	colour: white;
+	top: 5px;
+	left: 5px;
+	z-index: -1;
+	text-align: center;
+	white-space: nowrap;
+} */
+
+.titre {
+	color: white;
+	margin-top: 5px;
+	margin-left: 20px;
+	font-family: 'Audiowide', cursive;
+}
+
+img {
+	width:30%;
+	margin-top: 70px;
+	margin-left: 300px; 
+}
+
+.home {
+	float: right;
+	margin-top: 5px;
+}
+
+.media-body {
+	background-color: rgba(42,9,171,0.5); 
+	color: white;
+	border: 5px white solid;
+	margin-top: 30px;
+	margin: 20px;
+	font-family: 'Iceland', cursive;
+	font-size: 20px;
+}
+
+.media {
+	margin: 10px;
+}
+
+.enter {
+	margin-left: 370px;
+	font-size: 30px;
+}
+
+.pull-left {
+	margin-top: 10px;
+	margin-left: 10px;
+	background-color: black;
+	border: 1px red solid;
+
+}
+
+.navbar {
+	background-color: rgba(42,9,171,0.5);
+	color: white;
+	font-family: 'Audiowide', cursive;
+	font-size: 30px;
+}
+
+/* campagne */
+
+.article1 {
+	margin-top: 100px;
+}
+
+.panel-default {
+	background-color: rgba(255,255,229,0.5);
+	color: black;
+	font-family: 'Iceland', cursive;
+	font-size: 20px;
+}
